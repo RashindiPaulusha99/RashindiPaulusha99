@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently Studying on **Institute of Software Engineering**
 
-- 🌱 I’m currently learning **Hibernate**
+- 🌱 I’m currently learning **Computer Science**
 
 - 👨‍💻 All of my projects are available at [https://rashindipaulusha99.github.io/MyProfile/](https://rashindipaulusha99.github.io/MyProfile/)
 
