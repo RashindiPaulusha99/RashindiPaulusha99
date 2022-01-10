@@ -5,19 +5,23 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rashindipaulusha99" alt="rashindipaulusha99" /></a> </p>
 
-- 🔭 I’m currently Studying on **Institute of Software Engineering**
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
+- 🔭 I’m currently Studying in **Institute of Software Engineering**
 
 - 🌱 I’m currently learning **Computer Science**
 
-- 👨‍💻 All of my projects are available at [https://rashindipaulusha99.github.io/MyProfile/](https://rashindipaulusha99.github.io/MyProfile/)
+- 👨‍💻 All of my projects are available at [https://github.com/RashindiPaulusha99](https://github.com/RashindiPaulusha99)
 
-- 💬 Ask me about **me : 0787991075**
+- 📝 You can know about me [https://rashindipaulusha99.github.io/MyProfile/](https://rashindipaulusha99.github.io/MyProfile/)
+
+- 💬 Ask me about everything **0787991075**
 
 - 📫 How to reach me **rashindipaulusha837@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/rashindiwijesinghe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rashindiwijesinghe" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/linkedin.com/in/rashindi-wijesinghe-580a1a225" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/rashindi-wijesinghe-580a1a225" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -28,4 +32,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rashindipaulusha99&show_icons=true&locale=en" alt="rashindipaulusha99" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rashindipaulusha99&" alt="rashindipaulusha99" /></p>
-
