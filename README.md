@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Rashindi Paulusha Wijesinghe</h1>
 <h3 align="center">A passionate Full Stack developer from Sri Lanka</h3>
 
+![Image of About](![bca56ffe4a6e2910237482982aa856fe](https://user-images.githubusercontent.com/90243764/148843088-8c0890d8-266d-4c27-bf06-026fe9ce78c7.gif))
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rashindipaulusha99&label=Profile%20views&color=0e75b6&style=flat" alt="rashindipaulusha99" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rashindipaulusha99" alt="rashindipaulusha99" /></a> </p>
