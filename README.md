@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rashindi Paulusha Wijesinghe</h1>
 <h3 align="center">A passionate Full Stack developer from Sri Lanka</h3>
 
-<p><img align="center" src="https://i.gifer.com/origin/bc/bca56ffe4a6e2910237482982aa856fe.gif" alt="rashindipaulusha99" /></p>
+![Image of About](https://i.gifer.com/origin/bc/bca56ffe4a6e2910237482982aa856fe.gif)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rashindipaulusha99&label=Profile%20views&color=0e75b6&style=flat" alt="rashindipaulusha99" /> </p>
 
