@@ -13,6 +13,8 @@
 
 - 🌱 I’m currently learning **Computer Science**
 
+- 👨‍🎓 My primary coding language **Java**
+
 - 👨‍💻 All of my projects are available at [https://github.com/RashindiPaulusha99](https://github.com/RashindiPaulusha99)
 
 - 📝 You can know about me [https://rashindipaulusha99.github.io/MyProfile/](https://rashindipaulusha99.github.io/MyProfile/)
