@@ -34,8 +34,8 @@
 <h3 align="left">Tools :</h3>
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.jetbrains.com/" target="_blank" rel="noreferrer"> <img src="https://vectorwiki.com/images/ZgSyR__intellij-idea.svg" alt="intellij" width="40" height="40"/> </a> <a href="https://developer.android.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/android-studio-1.svg" alt="androidstudio" width="60" height="60"/> </a> </p>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rashindipaulusha99&show_icons=true&locale=en&layout=compact" alt="rashindipaulusha99" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rashindipaulusha99&show_icons=true&locale=en&layout=compact&theme=gotham" alt="rashindipaulusha99" /></p>
 
-<p align="center" style="background-color="black">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rashindipaulusha99&show_icons=true&locale=en" alt="rashindipaulusha99" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rashindipaulusha99&show_icons=true&locale=en" alt="rashindipaulusha99" /></p>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rashindipaulusha99&" alt="rashindipaulusha99" /></p>
