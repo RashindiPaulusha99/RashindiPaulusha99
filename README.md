@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Rashindi Paulusha Wijesinghe</h1>
 
-<h3 align="center">A passionate Full Stack developer from Sri Lanka</h3>
+<h2 align="center">A passionate Full Stack developer from Sri Lanka</h2>
 
-<h3 align="center"><a href="https://git.io/typing-svg" align="center"><img align="center" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=4000&center=true&vCenter=true&width=435&lines=Software+Developer;Software+Designer;Dancer" alt="Typing SVG" style="max-width:100%" /></a></h3>
+<h1 align="center"><a href="https://git.io/typing-svg" align="center"><img align="center" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=4000&center=true&vCenter=true&width=435&lines=Software+Developer;Software+Designer;Dancer" alt="Typing SVG" style="max-width:100%" /></a></h1>
 
 <p align="center"><img src="https://i.gifer.com/origin/bc/bca56ffe4a6e2910237482982aa856fe.gif" alt="animated" /></p>
 
@@ -26,26 +26,26 @@
 
 - 📫 How to reach me **rashindipaulusha837@gmail.com**
 
-<h3 align="center">Connect with me:</h3>
+<h2 align="center">Connect with me:</h2>
 <p align="center">
 <a href="https://linkedin.com/in/linkedin.com/in/rashindi-wijesinghe-580a1a225" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/rashindi-wijesinghe-580a1a225" height="30" width="40" /></a>
 </p>
 
-<h3 align="center">Languages and Frameworks I used :</h3>
-<h4 align="center">Main Languages :</h4>
+<h2 align="center">Languages and Frameworks I use :</h2>
+<h3 align="center">Main Languages :</h3>
 <p align="center"> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
   
-<h4 align="center">FrontEnd :</h4>
+<h3 align="center">FrontEnd :</h3>
 <p align="center"> <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="react" width="40" height="40"/> </a> </p>
  
-<h4 align="center">BackEnd :</h4>
-<p align="center"> <a href="https://hibernate.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/hibernate.svg" alt="hibernate" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/spring-3.svg" alt="spring" width="40" height="40"/> </a> <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/express-109.svg" alt="expressjs" width="40" height="40"/> </a> </p>
+<h3 align="center">BackEnd :</h3>
+<p align="center"> <a href="https://hibernate.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/hibernate.svg" alt="hibernate" width="50" height="50"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/spring-3.svg" alt="spring" width="50" height="50"/> </a> <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/express-109.svg" alt="expressjs" width="50" height="50"/> </a> </p>
 
-<h4 align="center">DataBase :</h4>
-<p align="center"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" alt="nodejs" width="40" height="40"/> </a>  </p>
+<h3 align="center">DataBase :</h3>
+<p align="center"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" alt="mongodb" width="50" height="50"/> </a>  </p>
 
-<h3 align="center">Tools :</h3>
-<p align="center"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.jetbrains.com/" target="_blank" rel="noreferrer"> <img src="https://vectorwiki.com/images/ZgSyR__intellij-idea.svg" alt="intellij" width="40" height="40"/> </a> <a href="https://developer.android.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/android-studio-1.svg" alt="androidstudio" width="60" height="60"/> </a> </p>
+<h2 align="center">Tools I use :</h2>
+<p align="center"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="50" height="50"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="50" height="50"/> </a> <a href="https://www.jetbrains.com/" target="_blank" rel="noreferrer"> <img src="https://vectorwiki.com/images/ZgSyR__intellij-idea.svg" alt="intellij" width="50" height="50"/> </a> <a href="https://developer.android.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/android-studio-1.svg" alt="androidstudio" width="60" height="60"/> </a> </p>
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rashindipaulusha99&show_icons=true&locale=en&layout=compact&theme=gotham" alt="rashindipaulusha99" /></p>
 
