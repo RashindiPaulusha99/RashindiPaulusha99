@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Rashindi Paulusha Wijesinghe</h1>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=A+passionate+Full+Stack+developer+from+Sri+Lanka" alt="Typing SVG" /></a>
 <h3 align="center">A passionate Full Stack developer from Sri Lanka</h3>
+
+<a href="https://git.io/typing-svg" align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Software+Developer;Software+Designerk;Dancer" alt="Typing SVG" /></a>
 
 ![Image of About](https://i.gifer.com/origin/bc/bca56ffe4a6e2910237482982aa856fe.gif)
 
