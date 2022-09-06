@@ -2,7 +2,7 @@
 
 <h3 align="center">A passionate Full Stack developer from Sri Lanka</h3>
 
-<a href="https://git.io/typing-svg" align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=4000&center=true&vCenter=true&width=435&lines=Software+Developer;Software+Designerk;Dancer" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg" align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=4000&center=true&width=435&lines=Software+Developer;Software+Designer;Dancer" alt="Typing SVG" /></a>
 
 ![Image of About](https://i.gifer.com/origin/bc/bca56ffe4a6e2910237482982aa856fe.gif)
 
