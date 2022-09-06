@@ -50,7 +50,7 @@
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rashindipaulusha99&show_icons=true&locale=en&layout=compact&theme=gotham" alt="rashindipaulusha99" /></p>
 
 <h3 align="center"> ⭐ My Github Stats ⭐</h3>
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rashindipaulusha99&show_icons=true&locale=en&theme=gotham" alt="rashindipaulusha99" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rashindipaulusha99&show_icons=true&locale=en&theme=radical" alt="rashindipaulusha99" /></p>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rashindipaulusha99&theme=gotham" alt="rashindipaulusha99" /></p>
 
