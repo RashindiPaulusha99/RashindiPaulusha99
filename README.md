@@ -2,9 +2,9 @@
 
 <h3 align="center">A passionate Full Stack developer from Sri Lanka</h3>
 
-<h3 align="center"><a href="https://git.io/typing-svg" align="center"><img align="center" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=4000&center=true&vCenter=true&width=435&lines=Software+Developer;Software+Designer;Dancer" alt="Typing SVG" style="max-width:100%" width="250" height="250" /></a></h3>
+<h3 align="center"><a href="https://git.io/typing-svg" align="center"><img align="center" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=4000&center=true&vCenter=true&width=435&lines=Software+Developer;Software+Designer;Dancer" alt="Typing SVG" style="max-width:100%" /></a></h3>
 
-<p align="center"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif" alt="animated" /></p>
+<p align="center"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif" alt="animated" width="250" height="250" /></p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=rashindipaulusha99&label=Profile%20views&color=0e75b6&style=flat" alt="rashindipaulusha99" /> </p>
 
