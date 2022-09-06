@@ -1,4 +1,4 @@
-<p align="center"><img src="https://media4.giphy.com/media/3o7aD2ml5k1Vf8g8oM/giphy.gif?cid=ecf05e47g581vmhihhagj4e7azvz0rl3r6ugy0e7syir7232&rid=giphy.gif&ct=s" alt="gif" style="width:50%"/></p>
+<p align="center"><img src="https://media4.giphy.com/media/3o7aD2ml5k1Vf8g8oM/giphy.gif?cid=ecf05e47g581vmhihhagj4e7azvz0rl3r6ugy0e7syir7232&rid=giphy.gif&ct=s" alt="gif" style="width:100%:height:25%"/></p>
 <h1 align="center">Hi 👋, I'm Rashindi Paulusha Wijesinghe</h1>
 
 <h3 align="center">A passionate Full Stack developer from Sri Lanka</h3>
