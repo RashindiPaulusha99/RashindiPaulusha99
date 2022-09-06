@@ -1,11 +1,10 @@
-<p align="center"><img src="https://media4.giphy.com/media/3o7aD2ml5k1Vf8g8oM/giphy.gif?cid=ecf05e47g581vmhihhagj4e7azvz0rl3r6ugy0e7syir7232&rid=giphy.gif&ct=s" alt="gif" style="width:100%:height:25%"/></p>
 <h1 align="center">Hi 👋, I'm Rashindi Paulusha Wijesinghe</h1>
 
 <h3 align="center">A passionate Full Stack developer from Sri Lanka</h3>
 
 <h3 align="center"><a href="https://git.io/typing-svg" align="center"><img align="center" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=4000&center=true&vCenter=true&width=435&lines=Software+Developer;Software+Designer;Dancer" alt="Typing SVG" style="max-width:100%" /></a></h3>
 
-<p align="center"><img src="https://i.gifer.com/origin/bc/bca56ffe4a6e2910237482982aa856fe.gif" alt="animated" /></p>
+<p align="center"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif" alt="animated" /></p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=rashindipaulusha99&label=Profile%20views&color=0e75b6&style=flat" alt="rashindipaulusha99" /> </p>
 
