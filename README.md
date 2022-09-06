@@ -1,4 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rashindi Paulusha Wijesinghe</h1>
+
+
 <h3 align="center">A passionate Full Stack developer from Sri Lanka</h3>
 
 ![Image of About](https://i.gifer.com/origin/bc/bca56ffe4a6e2910237482982aa856fe.gif)
@@ -36,6 +38,6 @@
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rashindipaulusha99&show_icons=true&locale=en&layout=compact&theme=gotham" alt="rashindipaulusha99" /></p>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rashindipaulusha99&show_icons=true&locale=en" alt="rashindipaulusha99" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rashindipaulusha99&show_icons=true&locale=en&theme=gotham" alt="rashindipaulusha99" /></p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rashindipaulusha99&" alt="rashindipaulusha99" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rashindipaulusha99&theme=gotham" alt="rashindipaulusha99" /></p>
