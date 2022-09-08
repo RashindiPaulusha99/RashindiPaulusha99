@@ -31,7 +31,7 @@
 <a href="https://linkedin.com/in/linkedin.com/in/rashindi-wijesinghe-580a1a225" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/rashindi-wijesinghe-580a1a225" height="30" width="40" /></a>
 </p>
 
-<h3 align="center" style="çolor:red"> 📗 Languages and Frameworks I use : 📗</h3>
+<h3 align="center"> 📗 Languages and Frameworks I use : 📗</h3>
 <h3 align="center">Main Languages :</h3>
 <p align="center"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Deathopex/Deathopex/main/java.gif" alt="java" width="50" height="50"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://media1.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif?cid=ecf05e47bn8pjmcdx7itr2xrq8sdk3esyev1o145jlrfbp8m&rid=giphy.gif&ct=s" alt="html5" width="50" height="50"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://media4.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif?cid=ecf05e47x9scanwn6zzt02wi3ygh5kxcx71sa35ltdao6f73&rid=giphy.gif&ct=s" alt="css3" width="50" height="50"/> </a>  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif?cid=6c09b952idha5aup76uk729ej5nrwowvv34ttf3qw7t6wcwp&rid=giphy.gif&ct=s" alt="javascript" width="50" height="50"/> </a>  </p>
   
